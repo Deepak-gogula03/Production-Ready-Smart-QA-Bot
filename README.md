@@ -159,7 +159,7 @@ Gracefully handles failures and unexpected inputs.
 
 ## 🏗️ System Architecture
 
-![Architecture](screenshots/architecture.png)
+<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/1a9db74f-0a88-4e7c-a07f-17cda7caa32c" />
 
 ```text
 User Question
@@ -193,7 +193,8 @@ LangSmith Monitoring
 
 ## ⚙️ Application Workflow
 
-![Workflow](screenshots/workflow.png)
+<img width="1672" height="941" alt="workflow" src="https://github.com/user-attachments/assets/5e6cc88d-98f6-40b1-adc4-6d84b3edb7bd" />
+
 
 ### Step 1 — User Question
 
@@ -447,11 +448,12 @@ This demonstrates the structured output capabilities implemented using Pydantic 
 
 ### System Architecture
 
-![Architecture](screenshots/architecture.png)
+<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/c646b58b-6e6d-4c07-bcb6-7211c1b363de" />
 
 ### Workflow
 
-![Workflow](screenshots/workflow.png)
+<img width="1672" height="941" alt="workflow" src="https://github.com/user-attachments/assets/cb3b09e4-79e9-4ffe-b207-9e6550c8aeca" />
+
 
 ### Application Output
 
