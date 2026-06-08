@@ -1,4 +1,4 @@
-# 🤖 Enterprise Smart Q&A System using LangChain, OpenAI, LangSmith & Structured Outputs
+# 🤖 Production-Ready Smart Q&A System using LangChain, OpenAI, LangSmith & Structured Outputs
 
 🚀 **Production-Ready AI Question Answering System** featuring Structured Outputs, LangChain LCEL Pipelines, LangSmith Observability, Input Guardrails, Batch Processing, and Enterprise-Grade Error Handling.
 
@@ -248,17 +248,12 @@ class QAResponse(BaseModel):
 
 ### Benefits
 
-✅ Consistent Responses
-
-✅ Schema Enforcement
-
-✅ Type Safety
-
-✅ Better API Integration
-
-✅ Improved Reliability
-
-✅ Easier Frontend Integration
+- Consistent Responses
+- Schema Enforcement
+- Type Safety
+- Better API Integration
+- Improved Reliability
+- Easier Frontend Integration
 
 This reflects modern LLM Engineering best practices.
 
@@ -324,13 +319,10 @@ Production AI systems should never process invalid requests.
 
 ### Benefits
 
-✅ Improved Stability
-
-✅ Better Reliability
-
-✅ Reduced Runtime Errors
-
-✅ Enhanced User Experience
+- Improved Stability
+- Better Reliability
+- Reduced Runtime Errors
+- Enhanced User Experience
 
 ---
 
@@ -472,13 +464,15 @@ This demonstrates the structured output capabilities implemented using Pydantic 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Deepak-gogula03/Enterprise-Smart-QA-System.git
+git clone https://github.com/Deepak-gogula03/Production-Ready-Smart-QA-Bot.git
+
 ```
 
 ### Move into Project Directory
 
 ```bash
-cd Enterprise-Smart-QA-System
+cd Production-Ready-Smart-QA-Bot
+
 ```
 
 ### Create Virtual Environment
@@ -531,14 +525,17 @@ python smart_bot_section.py
 ## 📁 Project Structure
 
 ```text
-Enterprise-Smart-QA-System/
+Production-Ready-Smart-QA-Bot/
 │
 ├── smart_bot_section.py
+|
 ├── screenshots/
 │   ├── architecture.png
 │   ├── workflow.png
 │   └── output.png
+|
 ├── requirements.txt
+|
 ├── README.md
 └── .env.example
 ```
@@ -658,23 +655,15 @@ Most AI chatbot projects simply connect a prompt to a language model and return 
 
 This project goes significantly beyond basic chatbot development by implementing:
 
-✅ Structured Output Engineering
-
-✅ LangChain LCEL Pipelines
-
-✅ LangSmith Tracing V2
-
-✅ Pydantic Validation
-
-✅ Input Guardrails
-
-✅ Batch Processing
-
-✅ Exception Handling
-
-✅ Production Monitoring
-
-✅ Enterprise Software Design
+- Structured Output Engineering
+- LangChain LCEL Pipelines
+- LangSmith Tracing V2
+- Pydantic Validation
+- Input Guardrails
+- Batch Processing
+- Exception Handling
+- Production Monitoring
+- Enterprise Software Design
 
 The architecture reflects engineering practices commonly used when deploying AI systems into real-world production environments.
 
@@ -690,12 +679,3 @@ This project demonstrates practical expertise in:
 * Production AI Systems
 * Software Architecture
 
----
-
-## 👨‍💻 Author
-
-**Deepak Gogula**
-
-Software Developer | Generative AI Engineer
-
-Building production-ready AI applications using LangChain, LangGraph, LLMs, RAG, Agentic AI, and Vector Databases.
